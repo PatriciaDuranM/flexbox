@@ -27,3 +27,11 @@ body{
     font-family: sans-serif;
     margin: 0;
 }
+
+.box{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    font-size: 40px;
+}
